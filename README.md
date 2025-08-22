@@ -5,7 +5,6 @@ Backend Developer, Choi HyunJi
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=h0725j&utm_content=line">
   <img src="https://render.gitanimals.org/lines/h0725j" width="600" height="120"/>
 </a>
-
 ### ✨ Stacks 
 <div>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
